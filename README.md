@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Ameen Hussaini</h1>
-<h3 align="center">A passionate Flutter developer from India😁</h3>
+<h3 align="center">A passionate Developer 😁</h3>
 <img align = "center" alt = "coding" width ="400" src= "https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <img align = "right" alt = "coding" width ="500" src= "https://media.geeksforgeeks.org/wp-content/uploads/20210129175426/ezgif1fadd7dacb293.gif">                                                                                                           
                                                                                                            
