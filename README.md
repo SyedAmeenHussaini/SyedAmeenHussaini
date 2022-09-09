@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/ameenhussaini4" target="blank"><img src="https://img.shields.io/twitter/follow/ameenhussaini4?logo=twitter&style=for-the-badge" alt="ameenhussaini4" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter developer**
+- 🌱 Sharepoint online PowerApps powerautomate Mirrosoft 365  & Flutter Mobile developer.
 
 - 👨‍💻 All of my projects are available at [https://github.com/SyedAmeenHussaini?tab=repositories](https://github.com/SyedAmeenHussaini?tab=repositories)
 
