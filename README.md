@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, This is Syed Ameen Hussaini</h1>
 <h3 align="center">A Passionate Devops Engineer 😁</h3>
-<img align = "center" alt = "coding" width ="400" src= "https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-<img align = "right" alt = "coding" width ="500" src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0uk199Ah_3wlfH9GXychcz&ust=1683324954096000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNj8-aDY3P4CFQAAAAAdAAAAABAE"                                                                                                     
+<img align = "center" alt = "coding" width ="400" src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0uk199Ah_3wlfH9GXychcz&ust=1683324954096000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNj8-aDY3P4CFQAAAAAdAAAAABAE">
+<img align = "right" alt = "coding" width ="500" src= ""                                                                                                     
                                                                                                            
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedameenhussaini&label=Profile%20views&color=0e75b6&style=flat" alt="syedameenhussaini" /> </p>
