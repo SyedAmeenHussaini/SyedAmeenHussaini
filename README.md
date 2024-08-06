@@ -58,7 +58,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
   </a>
   <img src="https://a.slack-edge.com/80588/img/services/jenkins-ci_512.png" alt="Jenkins" width="40" height="40" />
-  <img src="https://kubernetes.io/images/favicon.png" alt="Kubernetes" width="40" height="40" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPKA-U9m5BxYQDF1O7atMfj9EMMXEoGu4t0Q&s" alt="Kubernetes" width="40" height="40" />
   <img src="https://s3-ap-southeast-2.amazonaws.com/content-prod-529546285894/2020/03/tf.png" alt="Terraform" width="40" height="40" />
   <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS" width="40" height="40" />
   <img src="https://avatars.githubusercontent.com/u/1507452?s=280&v=4" alt="Ansible" width="40" height="40" />
